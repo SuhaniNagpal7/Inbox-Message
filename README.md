@@ -1,4 +1,4 @@
-# Solidity Smart Contract Project
+# Inbox-Message
 
 This project contains a simple Inbox smart contract written in Solidity.
 
